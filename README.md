@@ -2,7 +2,7 @@
 
 ## Integrantes:
 
-- Alex Poveda
+- Alexander Rubiano
 - Angello Gomez
 - Bibiana
 - Samuel
