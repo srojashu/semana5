@@ -4,7 +4,7 @@
 
 - Alexander Rubiano
 - Angello Gomez
-- Bibiana
-- Samuel
-- Mateo
+- Bibiana Machado
+- Samuel Rojas
+- Mateo Alvarez
 
